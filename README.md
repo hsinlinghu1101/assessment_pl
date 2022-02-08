@@ -1,4 +1,3 @@
-# Front End Evaluation live site
 
 
 ## Available Scripts
